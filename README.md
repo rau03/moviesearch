@@ -1,10 +1,26 @@
-I used React and real-world API to fetch and display the data in this application. Along with page routing and useEffect. 
+# Search the Movies
 
-# React + Vite
+A web application that allows users to search for movies and view detailed information about them: built with modern web technologies to provide a seamless user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
 
-Currently, two official plugins are available:
+You can view the live version of the application here: [Search the Movies](https://searchthemovies.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Search Functionality:** Users can search for movies by title.
+- **Movie Details:** View detailed information about each movie, including the title, release date, overview, and ratings.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+
+## Tech Stack
+
+- **Frontend:** HTML, CSS (TailwindCSS), JavaScript
+- **API:** Utilizes a movie database API (e.g., TMDb or OMDb) for fetching movie data.
+- **Hosting:** Deployed on Netlify.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/search-the-movies.git
+
